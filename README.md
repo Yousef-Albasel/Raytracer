@@ -41,6 +41,6 @@ Make sure you’re using Visual Studio 2019/2022 with Desktop development with C
 In Visual Studio, set the solution platform to x86 (32-bit).
 
 ## Screenshots
-![](Raytracer/output.png)
+![](Raytracing/output.png)
 
 
